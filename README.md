@@ -4,7 +4,7 @@ This repository contains the analysis and visualization of AlphaFold2's structur
 
 ## Key Figure
 
-![AlphaFold2 function prediction analysis](AF2_cannot_predict_function_fpr_51point97perc.png)
+![AlphaFold2 function prediction analysis](AF2_cannot_predict_function_fpr_51point97perc%20(1).png)
 
 **Figure 1:** Demonstration that AlphaFold2's multimeric structural predictions do not correlate with protein function. Key findings:
 
