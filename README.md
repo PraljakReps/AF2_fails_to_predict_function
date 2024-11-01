@@ -18,8 +18,4 @@ This repository contains the analysis and visualization of AlphaFold2's structur
 - AlphaFold2's multimeric predictions (red and blue cartoons with yellow stick ligands)
 
 ## Repository Contents
-- `AF2_cannot_predict_function_fpr_51point97perc.png`: Main figure showing the analysis
-- [Add other relevant files/scripts used in the analysis]
-
-## Usage
-[Add instructions for how to use/reproduce the analysis if app
+- `AF2_cannot_predict_function_fpr_51point97perc%20(1).png`: Main figure showing the analysis
